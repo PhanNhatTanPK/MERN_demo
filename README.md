@@ -32,7 +32,7 @@ This is a basic example of MERN stack. This example can help you understand how 
 ### Built With
 
 The technologies that I use in this project include:
-* <a href="https://react.dev/"> <img src="https://th.bing.com/th/id/R.1364c797cfe35b7c1a8f93dc93a5cccb?rik=s0SRO40bI3ILeg&pid=ImgRaw&r=0" width="86" height="28" > </a>
+* <a href="https://react.dev/"> <img src="https://dwglogo.com/wp-content/uploads/2017/09/React_logo.png" width="86" height="28" > </a>
 * <a href="https://expressjs.com/"> <img src="https://th.bing.com/th/id/R.8f781eba490bb2e95ede73a179667bee?rik=CsanGEl1fyQ1QA&pid=ImgRaw&r=0" width="86" height="28" > </a>
 * <a href="https://nodejs.org/en"> <img src="https://th.bing.com/th/id/R.0be41b7498b552e5999a46465c42541e?rik=eH1b31zMRDv9WQ&riu=http%3a%2f%2fabirtone.com%2fstatic%2fimages%2fcourses%2fnodejs.png&ehk=i2oDRHZPLkpcEo6sWjFp4kB3ksBD00kt%2frV6TvKqHkM%3d&risl=&pid=ImgRaw&r=0" width="86" height="28" > </a>
 * <a href="https://www.mongodb.com/"> <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" width="86" height="28" > </a>
