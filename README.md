@@ -59,7 +59,7 @@ To installing and setting up the application, please follow these steps:
 4. Connect database <br>
   Access the <a href="https://www.mongodb.com/">MongoDB</a> website and create a database,  then click on the 'Connect' button, select 'Connect Using VS Code', copy and paste the connection string into the .env file in the server folder.
   <img src="./frontend/public/Untitled1.png">
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -71,7 +71,7 @@ With this application, you can add, edit, delete notes and display them on the w
  <img src="./frontend/public/2.png">
 * Delete note
  <img src="./frontend/public/3.png">
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CONTACT -->
 ## Contact
@@ -80,23 +80,12 @@ Phan Nhat Tan & Vu Hoang Ngoc Minh - phannhattan10062001@gmail.com - vhnm96@gmai
 
 Project Link: [https://github.com/PhanNhatTanPK/MERN_demo.git](https://github.com/PhanNhatTanPK/MERN_demo.git)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
+* [Axios](https://axios-http.com/docs/intro)
+* [Mongoose](https://mongoosejs.com/docs/guide.html)
+* [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+* [Zustand](https://docs.pmnd.rs/zustand/recipes/recipes)
+* [Coding with Robby Page](https://www.youtube.com/watch?v=jK7mcMrYzj8&list=PL-LRDpVN2fZA-1igOQ6PDcqfBjS-vaC7w&index=1)
