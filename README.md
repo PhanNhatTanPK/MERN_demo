@@ -88,4 +88,4 @@ Project Link: [https://github.com/PhanNhatTanPK/MERN_demo.git](https://github.co
 * [Mongoose](https://mongoosejs.com/docs/guide.html)
 * [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 * [Zustand](https://docs.pmnd.rs/zustand/recipes/recipes)
-* [Coding with Robby Page](https://www.youtube.com/watch?v=jK7mcMrYzj8&list=PL-LRDpVN2fZA-1igOQ6PDcqfBjS-vaC7w&index=1)
+* [Coding with Robby Channel](https://www.youtube.com/watch?v=jK7mcMrYzj8&list=PL-LRDpVN2fZA-1igOQ6PDcqfBjS-vaC7w&index=1)
